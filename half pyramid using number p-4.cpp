@@ -18,7 +18,7 @@ int main()
     {
         for(int j=1;j<=i;j++)
     {
-        cout<<" " <<count;
+        cout<<count<<" ";
         count++;
     }
     cout<<endl;
